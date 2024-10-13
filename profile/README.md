@@ -6,21 +6,26 @@ Here you can find the company's developments, as well as useful instructions and
 
 <hr>
 
-## ROKS:
+# Projects:
+
+![roks-logo-main-rgb-horizontal-no-tag](https://github.com/user-attachments/assets/e45f9b0b-34a7-4ba0-a432-425e86df0ba3)
+
 ### **Backend:**
 
-  - Django [Main]: [GitHub Repository - ROKS Backend](https://github.com/it-m-digital/backend_Roks)
+  1. Django [Main]: [GitHub Repository - ROKS Backend](https://github.com/it-m-digital/backend_Roks)
+     
 
-  This repository contains the backend services and APIs for the ROKS system, responsible for handling business logic, data storage, and secure operations.
+  > This repository contains the backend services and APIs for the ROKS system, responsible for handling business logic, data storage, and secure operations.
 
 <hr>
+
 ### **Frontend:**
     
-  - React [Main]: [GitHub Repository - ROKS Frontend](https://github.com/it-m-digital/Frontend_roks_client)
-
-  - React [PLC]: [GitHub Repository - ROKS Frontend](https://github.com/it-m-digital/Frontend_roks_client)
+  1. React [Main]: [GitHub Repository - ROKS Frontend](https://github.com/it-m-digital/Frontend_roks_client)
+     
+  3. React [PLC]: [GitHub Repository - ROKS PLC Client](https://github.com/it-m-digital/Frontend_roks_plk_client)
     
-    The ROKS frontend repository includes the web-based user interface, developed using modern frameworks for a responsive and efficient user experience.
+  > The ROKS frontend repository includes the web-based user interface, developed using modern frameworks for a responsive and efficient user experience.
 
 
 
