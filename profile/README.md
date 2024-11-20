@@ -13,7 +13,7 @@ Here you can find the company's developments, as well as useful instructions and
 ### **Backend:**
 
   1. Django [Main]: [GitHub Repository - ROKS Backend](https://github.com/it-m-digital/backend_Roks)
-  2. Mail_reader [Main]: [GitHub Repository - ROKS Backend](https://github.com/it-m-digital/mail_reader)
+  2. Mail_reader [Service]: [GitHub Repository - ROKS Backend](https://github.com/it-m-digital/mail_reader)
      
 
   > This repository contains the backend services and APIs for the ROKS system, responsible for handling business logic, data storage, and secure operations.
