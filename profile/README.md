@@ -22,9 +22,11 @@ Here you can find the company's developments, as well as useful instructions and
 
 ### **Frontend:**
     
-  1. React [Main]: [GitHub Repository - ROKS Frontend](https://github.com/it-m-digital/Frontend_roks_client)
+  1. React, TypeScript [Main]: [GitHub Repository - ROKS Frontend](https://github.com/it-m-digital/Frontend_roks_client)
      
-  3. React [PLC]: [GitHub Repository - ROKS PLC Client](https://github.com/it-m-digital/Frontend_roks_plk_client)
+  3. React, TypeScript [PLC]: [GitHub Repository - ROKS PLC Client](https://github.com/it-m-digital/Frontend_roks_plk_client)
+
+  4. React, TypeScript [CRM]: [GitHub Repository - ROKS PLC Client](https://github.com/it-m-digital/Frontend_crm)
     
   > The ROKS frontend repository includes the web-based user interface, developed using modern frameworks for a responsive and efficient user experience.
 
