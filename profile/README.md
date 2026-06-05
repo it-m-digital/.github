@@ -1,44 +1,36 @@
-![untitled](https://github.com/user-attachments/assets/71bba4c6-8b72-4134-a8a7-3f641917c4a6)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/dfe45726-156a-4705-90e4-2cddd051864e">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/57925c5f-b399-4706-853d-bbcd3e32d12d">
+    <img alt="Айти-М" src="https://github.com/user-attachments/assets/57925c5f-b399-4706-853d-bbcd3e32d12d" width="400">
+  </picture>
+</p>
 
-### Hello! 👋 
-This is the repository of the IT-M company. 
-Here you can find the company's developments, as well as useful instructions and guides
+### Добро пожаловать! 👋
+В этом разделе собраны репозитории компании Айти-М, а также полезные инструкции, руководства и материалы для работы.
 
 <hr>
 
-# Projects:
+# Проекты:
 
 ![roks-logo-main-rgb-horizontal-no-tag](https://github.com/user-attachments/assets/e45f9b0b-34a7-4ba0-a432-425e86df0ba3)
 
 ### **Backend:**
 
-  1. Django [Main]: [GitHub Repository - ROKS Backend](https://github.com/it-m-digital/backend_Roks)
-  2. Mail_reader [Service]: [GitHub Repository - ROKS Backend](https://github.com/it-m-digital/mail_reader)
-  3. Vega Proxy [Service]: [GitHub Repository - ROKS Backend](https://github.com/it-m-digital/vega-proxy)
+  1. Серверная часть: [GitHub Repository - ROKS Backend](https://github.com/it-m-digital/backend_Roks);
+  2. Сервис обработки потоковых данных: [GitHub Repository - ROKS Sensor-Stream-Service](https://github.com/it-m-digital/sensor-stream-service);
+  3. Парсер писем Т-Плюс: [GitHub Repository - ROKS Mail Reader](https://github.com/it-m-digital/mail_reader);
+  4. Парсер ежедневных отчётов Т-Плюс (Элдис): [GitHub Repository - Eldis Reports](https://github.com/it-m-digital/eldis_reports);
+  5. Vega Proxy: [GitHub Repository - ROKS Vega Proxy](https://github.com/it-m-digital/vega-proxy).
 
-  > This repository contains the backend services and APIs for the ROKS system, responsible for handling business logic, data storage, and secure operations.
+  > Репозитории серверной части компании: основной backend, сервисы обработки данных, интеграционные решения, парсеры отчётов и почтовых сообщений, а также вспомогательные инфраструктурные компоненты.
 
 <hr>
 
 ### **Frontend:**
     
-  1. React, TypeScript [Main]: [GitHub Repository - ROKS Frontend](https://github.com/it-m-digital/Frontend_roks_client)
-     
-  3. React, TypeScript [PLC]: [GitHub Repository - ROKS PLC Client](https://github.com/it-m-digital/Frontend_roks_plk_client)
-
-  4. React, TypeScript [CRM]: [GitHub Repository - IT-M CRM Client](https://github.com/it-m-digital/Frontend_crm)
+  1. Клиентская часть: [GitHub Repository - ROKS Frontend](https://github.com/it-m-digital/Frontend_roks_client)
+  2. Авторизация: [GitHub Repository - ROKS Frontend](https://github.com/it-m-digital/Frontend_roks_client_authorization)
+  3. Приложение для конфигураций микрокомпьютеров (ПЛК): [GitHub Repository - ROKS PLC Client](https://github.com/it-m-digital/Frontend_roks_plk_client)
     
-  > The ROKS frontend repository includes the web-based user interface, developed using modern frameworks for a responsive and efficient user experience.
-
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  > Репозитории раздела Frontend содержат клиентские приложения компании, включая пользовательские интерфейсы, системы авторизации и инструменты для настройки оборудования.
